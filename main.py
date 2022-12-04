@@ -51,3 +51,5 @@ class randomNumGenerator:
 if __name__ == "__main__":
     r = randomNumGenerator(10, -100, 100)
     print(r.generate())
+
+    print("Second commit")
